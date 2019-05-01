@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mediumish - Jekyll Theme
 
 [Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
@@ -21,3 +22,6 @@ Copyright (C) 2019 Sal, https://www.wowthemes.net
 4. Make necessary changes, commit, push and open a pull request on GitHub.
 
 Thank you!
+=======
+# gilgahex.github.io
+>>>>>>> ce5b16ee15dbee48bdc197101221f700c26181b8
