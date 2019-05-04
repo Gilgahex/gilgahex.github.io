@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Wireless EEG Research"
+date:   2019-01-29 1:29:38 -0800
+categories: research
+---
+
+
+I've been researching how to remotely sense EEG and other biopotentials. 
+
+It seems to me that measuring EEG with Gold Electrodes, Ag/AgCl, 1020 Paste and the like is archiac and hasn't been changed or improved for the last 50 years.
+
+Materials like LiNbO3 and LiTaO3 have the potential to finely measure our biopotentials from only skin contact.
+
+Things like the [EPIC Sensor](http://www.plesseysemiconductors.com/products/epic-sensing-technology/) from Plessey Semiconductor seem to me the right direction for the future of EEG technology.
+
+Honestly, I'm not sure why everyone is still only measurig the voltage at every site and not the actual E-Field, you're losing so much information by only considering the Voltage from a reference.
+
+Instead, imagine if  
