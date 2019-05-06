@@ -2,7 +2,9 @@
 layout: post
 title:  "Biocomputing"
 date:   2019-05-04 1:29:38 -0800
-categories: research
+author: conor
+image: https://www.kurzweilai.net/images/profiler.png
+categories: [research, biocomputing, genetics]
 ---
 
 Recently a paper by Hyojin Kim, Daniel Bojar, and Martin Fussenegger, titled
