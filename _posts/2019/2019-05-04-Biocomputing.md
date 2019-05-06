@@ -7,12 +7,27 @@ image: https://www.kurzweilai.net/images/profiler.png
 categories: [research, biocomputing, genetics]
 ---
 
+{%raw%}
+
+$h_\theta(x) = \Large\frac{1}{1 + 
+\mathcal{e}^{(-\theta^\top x)}}$ ; 
+
+example (2): $a^2 + b^2 = c^2$ ; 
+example (3): $\sum_{i=1}^m y^{(i)}$
+
+{%endraw%}
+
+
+
 Recently a paper by Hyojin Kim, Daniel Bojar, and Martin Fussenegger, titled
  [“A CRISPR/Cas9-based central processing unit to program complex logic computation in human cells”](https://www.pnas.org/content/116/15/7214), was brought to my attention by a friend.
 
 The core idea behind the paper is rather amazing, and seeks to answer the questions
+
 How can we control gene expression with biological logic gates?
+
 Could use Cas9 as a CPU in a biocomputational architecture?
+
 Where does this type of genetic engineering architecture lead to for the future of humanity?
 
 To me this is an incredible idea which may lead to a future where if it would be possible to create artificial feedback loops using Cas9 and other * to regulate genetic expression in a robust and controllable way.
