@@ -12,8 +12,9 @@ It seems to me that measuring EEG with Gold Electrodes, Ag/AgCl, 1020 Paste and 
 
 Materials like LiNbO3 and LiTaO3 have the potential to finely measure our biopotentials from only skin contact.
 
-Things like the [EPIC Sensor](http://www.plesseysemiconductors.com/products/epic-sensing-technology/) from Plessey Semiconductor seem to me the right direction for the future of EEG technology.
+Things like the [EPIC Sensor](http://www.plesseysemiconductors.com/products/epic-sensing-technology/) from Plessey Semiconductor seem to me the right direction for the future of biosensing technology
+These types of sensors can remotely pickup any sort of electrophysiological signal, EEG, EMG, EOG, etc.
 
-Honestly, I'm not sure why everyone is still only measurig the voltage at every site and not the actual E-Field, you're losing so much information by only considering the Voltage from a reference.
+Honestly, I'm not sure why everyone is still only measuring the voltage at every site and not the actual E-Field, you're losing so much information by only considering the Voltage from a reference.
 
 Instead, imagine if  
