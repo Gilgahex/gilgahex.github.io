@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About
 permalink: /about
 comments: true
 ---
@@ -8,16 +8,19 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<h1>Hi there!</h1>
+<p>This is my personal blog about everything I think about. It's mostly science and technology, but crazy ideas in other fields pop up too</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+My links
+<a href = "https://www.linkedin.com/in/cmob/">LinkedIn</a>
+<a href = "https://github.com/Gilgahex">GitHub</a>
+<a href = "https://stackoverflow.com/story/gilgahex">StackOverflow</a>
+<a href = "https://app.pluralsight.com/profile/gilgahex">PluralSight</a>
+<a href = "https://www.instagram.com/twiximus/">Instagram</a>
+<a href = "http://rosalind.info/users/gilgahex/">Rosalind</a>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<a href = "https://myanahata.com">Anahata</a>
 
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
 </div>
 
