@@ -3,7 +3,7 @@ title:  "Manifold Learning for EEG Data"
 date:   2019-05-07 18:29:38 -0800
 author: conor
 image:
-categories: [machine learning, manifold learning, eeg, bci]
+categories: [machine learning, manifold learning, unsupervised, eeg, bci]
 
 ---
 

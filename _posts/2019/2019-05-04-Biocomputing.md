@@ -51,6 +51,7 @@ What is one to even call this type of genetic engineering into the domain of gen
 It certainly is within the domains of genetic engineering, biocomputing, and synthetic human biology, but I propose that a more precise term is needed.
 
 The terms Genetic Programming and Genetic Algorithms have unfortunately already been taken to have certain meanings in Computer Science, and although these definitions could be overloaded, I prefer to use the term ***
+
 You may imagine a world where it would be possible to update your genetics simply through your personal smart device of the future.
 
 

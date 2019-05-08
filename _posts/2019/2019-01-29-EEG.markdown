@@ -7,13 +7,15 @@ image: https://cdn.shopify.com/s/files/1/0186/7976/files/Light_Field_Rendering_J
 categories: [research, biopotential, EEG, EMG, EOG, EKG, ECG, QED]
 ---
 
+[TOC]
+
+
+
 I: Photonic Electrodes
 
-```
-![alt text](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/ef4056917a3059705d6cb27eb74df642b038993a/2-Figure2-1.png "Photrode")
-```
+![Photrode](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/ef4056917a3059705d6cb27eb74df642b038993a/2-Figure2-1.png)
 
-I've been researching how to remotely sense EEG and other biopotentials. It seems to me that measuring EEG with Gold Electrodes, Ag/AgCl, 1020 Paste and the like is archiac and hasn't been changed or improved for the last 50 years.
+I've been researching how to remotely sense EEG and other biopotentials. It seems to me that measuring EEG with Gold Electrodes, Ag/AgCl, 1020 Paste and the like is archaic and hasn't been changed or improved for the last 50 years.
 
 On a long business trip, I was reading an article on neuroscience in a SMOG shop in the middle of Oregon. 
 
@@ -55,7 +57,7 @@ No exfoliation of the scalp would be necessary.
 
 EEG would become a more routine procedure in medicine.
 
-This would be create for * because f the wealth of data that would be *
+This would be create for * because of the wealth of data that would be *
 
 I imagine it would become a standard piece of equipment for any clinic, not just for psychologists especially if you could micronize it.
 
