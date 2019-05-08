@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+image: /Cybernetics.jpg
 comments: true
 ---
 
@@ -13,12 +14,14 @@ comments: true
 but crazy ideas in other fields pop up too.
 <br>
 To stay updated on the blog subscribe to the <a href = "https://gilgahex.com/feed">atom feed</a>
+<br>
+For more on the term Cybernetics, see <a href = https://www.pangaro.com/definition-cybernetics.html>Dr. Pangaro's Post</a>
 
 </p>
 
 <br>
 Checkout this <a href = "https://lih.space">cool blog on Physics</a>, Lost in Hilbert Space, by my friend Jared Pagett
-
+<br>
 <br>
 
 My links
