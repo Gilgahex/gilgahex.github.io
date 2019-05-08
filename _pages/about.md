@@ -10,8 +10,8 @@ comments: true
 <div class="col-md-8 pr-5">
 
 <h1>Hi there!</h1>
-<p>This is my personal blog about everything I think about. It's mostly science and technology,
-but crazy ideas in other fields pop up too.
+<p>I'm Conor and this is my personal blog about everything I think about. <br>
+It's mostly focused science and technology, but crazy ideas in other fields pop up too.
 <br>
 To stay updated on the blog subscribe to the <a href = "https://gilgahex.com/feed">atom feed</a>
 <br>
