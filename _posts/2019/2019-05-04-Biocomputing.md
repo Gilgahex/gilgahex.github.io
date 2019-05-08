@@ -7,18 +7,6 @@ image: https://www.kurzweilai.net/images/profiler.png
 categories: [research, biocomputing, genetics]
 ---
 
-{%raw%}
-
-$h_\theta(x) = \Large\frac{1}{1 + 
-\mathcal{e}^{(-\theta^\top x)}}$ ; 
-
-example (2): $a^2 + b^2 = c^2$ ; 
-example (3): $\sum_{i=1}^m y^{(i)}$
-
-{%endraw%}
-
-
-
 Recently a paper by Hyojin Kim, Daniel Bojar, and Martin Fussenegger, titled
  [“A CRISPR/Cas9-based central processing unit to program complex logic computation in human cells”](https://www.pnas.org/content/116/15/7214), was brought to my attention by a friend.
 
@@ -30,12 +18,12 @@ Could use Cas9 as a CPU in a biocomputational architecture?
 
 Where does this type of genetic engineering architecture lead to for the future of humanity?
 
-To me this is an incredible idea which may lead to a future where if it would be possible to create artificial feedback loops using Cas9 and other * to regulate genetic expression in a robust and controllable way.
+To me this is an incredible idea which may lead to a future where if it would be possible to create artificial feedback loops using Cas9 and other genetic tools to regulate expression in a robust and controllable way.
 
 Now in their paper they mention making biologically approximate digital logic gates for AND, OR, NOR, XOR, and NIMPLY.
 
-Honestly, I had to lookup what the hell a [NIMPLY gate](https://en.wikipedia.org/wiki/NIMPLY_gate) is, which is why I linked it above, I’d never come across it before.
-So naturally, I educated myself about it and made a wikipedia page for it.
+Honestly, I had to lookup what the hell a [NIMPLY gate](https://en.wikipedia.org/wiki/NIMPLY_gate) is, I’d never come across it before.
+So I educated myself about it and made a wikipedia page for it.
 
 A NIMPLY gate is only 1 if its first input is 1 and its second input is 0
 In this case it signals the sole presence of its first igRNA input by forming GFP.
@@ -74,7 +62,7 @@ Or more simply you encode the biomarkers of a certain disease into input guide R
 This technology may be further amplified with the use of [CLASP’s Molecular Metaprogramming](https://github.com/clasp-developers/clasp)
 lead by [Christian Schafmeister’s Group @ Temple University](https://chem.cst.temple.edu/schafmeister.html)
 
-The big idea there is to use Spiroligomers as flexible building blocks to build unique biologically active molecules with specific purposes.
+The big idea there is to use Spiroligomers as flexible building blocks to build unique biologically active structures with specific purposes.
 
 A few examples given in [Christian’s Google Talk](https://www.youtube.com/watch?v=8X69_42Mj-g) are 
 
@@ -82,13 +70,13 @@ A few examples given in [Christian’s Google Talk](https://www.youtube.com/watc
     Long Term Molecular Sensors
     Water Purification 
 
-Their work reaches more into the realm of molecular engineering, but if there were a way to merge the two technologies, you could automate the synthesis of these compounds by using bacteria.
+Their work reaches more into the realm of molecular engineering, but if there were a way to merge the two technologies, by automating the synthesis of these compounds by using bacteria.
 
 Further, if we could use Cas9 to encode genetic factors that will biologically synthesize these Spiroligomers in vivo and have them spontaneously carry out their given purpose, automated personally tailored therapeutic treatments may be possible.
 
 This would open an entirely new methodology in synthetic biology.
 
-* 
+
 
 
 

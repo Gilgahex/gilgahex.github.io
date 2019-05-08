@@ -9,15 +9,29 @@ comments: true
 <div class="col-md-8 pr-5">
 
 <h1>Hi there!</h1>
-<p>This is my personal blog about everything I think about. It's mostly science and technology, but crazy ideas in other fields pop up too</p>
+<p>This is my personal blog about everything I think about. It's mostly science and technology,
+
+ but crazy ideas in other fields pop up too</p>
+ 
+<p>Checkout this <a href = https://lih.space>cool blog on Physics</a>, Lost in Hilbert Space, by friend Jared Pagett</p>
+
+
 
 My links
+
 <a href = "https://www.linkedin.com/in/cmob/">LinkedIn</a>
+
 <a href = "https://github.com/Gilgahex">GitHub</a>
+
 <a href = "https://stackoverflow.com/story/gilgahex">StackOverflow</a>
+
 <a href = "https://app.pluralsight.com/profile/gilgahex">PluralSight</a>
+
 <a href = "https://www.instagram.com/twiximus/">Instagram</a>
+
 <a href = "http://rosalind.info/users/gilgahex/">Rosalind</a>
+
+<a href = "https://www.quora.com/profile/Conor-OBrien-2">Quora</a>
 
 <a href = "https://myanahata.com">Anahata</a>
 
