@@ -15,12 +15,12 @@ It's mostly focused science and technology, but crazy ideas in other fields pop 
 <br>
 To stay updated on the blog subscribe to the <a href = "https://gilgahex.com/feed">atom feed</a>
 <br>
-For more on the term Cybernetics, see <a href = https://www.pangaro.com/definition-cybernetics.html>Dr. Pangaro's Post</a>
+For more on the term Cybernetics, see <a href = "https://www.pangaro.com/definition-cybernetics.html">Dr. Pangaro's Post</a>
 
 </p>
 
 <br>
-Checkout this <a href = "https://lih.space">cool blog on Physics</a>, Lost in Hilbert Space, by my friend Jared Pagett
+Checkout this cool<a href = "https://lih.space">blog on Physics</a>, Lost in Hilbert Space, by my friend Jared Pagett
 <br>
 <br>
 
