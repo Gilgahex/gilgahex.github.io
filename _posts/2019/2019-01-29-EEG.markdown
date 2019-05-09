@@ -53,7 +53,7 @@ No exfoliation of the scalp would be necessary.
 
 EEG would become a more routine procedure in medicine.
 
-This would be create for * because of the wealth of data that would be *
+This would be great for machine learning models in neuroscience because of the wealth of data that would become available with increased EEG data.
 
 I imagine it would become a standard piece of equipment for any clinic, not just for psychologists especially if you could micronize it.
 
