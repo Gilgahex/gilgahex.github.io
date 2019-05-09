@@ -20,7 +20,7 @@ For more on the term Cybernetics, see <a href = "https://www.pangaro.com/definit
 </p>
 
 <br>
-Checkout this cool<a href = "https://lih.space">blog on Physics</a>, Lost in Hilbert Space, by my friend Jared Pagett
+Checkout this cool <a href = "https://lih.space"> blog on Physics</a>, Lost in Hilbert Space, by my friend Jared Pagett
 <br>
 <br>
 
