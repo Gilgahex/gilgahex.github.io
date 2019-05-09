@@ -112,10 +112,15 @@ ga('send', 'pageview');
     <h1 class="sitetitle">{{ site.name }}</h1>
     <p class="lead">
         {{ site.description }}
-        <div align = "right" >
-			 <img src="https://i.redd.it/1iwcit1gidyy.jpg" alt="Groovy" height="134" width="197"> 
-        </div>
     </p>
+    <style>
+	.fixed-ratio-resize { /* basic responsive img */
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* IE8 */
+}
+	</style>
+	<img class="fixed-ratio-resize" src="https://i.redd.it/1iwcit1gidyy.jpg" alt=""/>
 </div>
 
 <!-- Content
