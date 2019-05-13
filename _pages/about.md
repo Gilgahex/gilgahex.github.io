@@ -16,7 +16,9 @@ It's mostly focused science and technology, but crazy ideas in other fields pop 
 To stay updated on the blog subscribe to the <a href = "https://gilgahex.com/feed">atom feed</a>
 <br>
 For more on the term Cybernetics, see <a href = "https://www.pangaro.com/definition-cybernetics.html">Dr. Pangaro's Post</a>
-
+<br>
+<a href = ../Cybernetics.png">CYBERNETICS</a>
+<br>
 </p>
 
 <br>

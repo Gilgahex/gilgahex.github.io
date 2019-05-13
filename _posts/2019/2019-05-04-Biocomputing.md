@@ -5,6 +5,7 @@ date:   2019-05-04 1:29:38 -0800
 author: conor
 image: https://www.kurzweilai.net/images/profiler.png
 categories: [research, biocomputing, genetics]
+featured: true
 ---
 
 Recently a paper by Hyojin Kim, Daniel Bojar, and Martin Fussenegger, titled

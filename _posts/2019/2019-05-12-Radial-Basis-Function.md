@@ -1,0 +1,8 @@
+layout: post
+title:  "Radial Basis Functions"
+date:   2019-05-12 4:47:38 -0800
+author: conor
+image: https://elitehrv.com/wp-content/uploads/2019/01/Biofeedback-icon.png
+categories: [research, biofeedback, neurofeedback, nervous system, autonomic nervous system, sympathetic, parasympathetic]
+
+{:toc}
