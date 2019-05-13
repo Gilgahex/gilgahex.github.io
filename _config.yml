@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-130118775-2'
 disqus: 'cybernetica'
-mailchimp-list: 'https://gmail.us20.list-manage.com/subscribe/post?u=id=0909bfb66d8058d274e5c232b&amp;id=664d3828a9'
+mailchimp-list: 'https://gmail.us20.list-manage.com/subscribe/post?u=0909bfb66d8058d274e5c232b&amp;id=664d3828a9'
 include: ["_pages"]
 permalink: /:title/
 
