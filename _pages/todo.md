@@ -22,6 +22,4 @@ Dark Theme Slider Option (Cookie?)
 
 Idea Tree
 
-LaTeX Integration
-
 Setup Email List
