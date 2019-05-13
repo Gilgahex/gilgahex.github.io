@@ -10,12 +10,28 @@ featured: true
 ---
 
 ## Biofeedback
-	HRV Training
-	
-	Breath
+
+Think back to when you learned how to drive a car or ride a bike
+
+You take in visual and audio input from the world and train the muscles in your legs and arms to operate the car or bike.
+
+This form of feedback where you form a feedback loop with yourself is called Biofeedback
+
+It turns out you can train such more than just your limbs, biofeedback when focused on your heart and brain can impart health benefits.
+
+Biofeedback has a bad rap in the scientific community because of its *
+
+To directly cite the [Association for Applied Psychophysiology and Biofeedback](http://downloads.imune.net/medicalbooks/Evidence_Based_Practice_in_Biofeedback_and_Neurofeedback_2008_0_8_26_2011_9_15_24_AM_0_.pdf) (AAPB)
+
+"On the other hand, several reports of unsuccessful biofeedback training have appeared in the research literature since the inception of biofeedback training three decades ago. Many of the unsuccessful studies conducted in the early development of the field reflect failure to thoroughly train patients. For example, some unsuccessful studies provided only minimal training with the biofeedback instrumentation (often one to four sessions of short duration), provided little coaching, involved no home practice, and failed to train to clinical criteria."
+
+HRV Training
+
+The Promise of Heart Rate Variability Biofeedback: Evidence-Based Applications
+
+Breath Exercises
 
 
-​	
 
 Here you can see a short demo of [Anahata](https://www.youtube.com/watch?v=I7uqHDCeC20) a wireless Biofeedback device 
 

@@ -68,9 +68,9 @@ The big idea there is to use Spiroligomers as flexible building blocks to build 
 
 A few examples given in [Christian’s Google Talk](https://www.youtube.com/watch?v=8X69_42Mj-g) are 
 
-    General Purpose Antimicrobials,
-    Long Term Molecular Sensors
-    Water Purification 
+General Purpose Antimicrobials,
+Long Term Molecular Sensors
+Water Purification 
 
 Their work reaches more into the realm of molecular engineering, but if there were a way to merge the two technologies, by automating the synthesis of these compounds by using bacteria.
 

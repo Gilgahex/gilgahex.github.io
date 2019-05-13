@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about
-image: /Cybernetics.jpg
+image: /assets/images/Cybernetics.png
 comments: true
 ---
 
@@ -14,10 +14,10 @@ comments: true
 It's mostly focused science and technology, but crazy ideas in other fields pop up too.
 <br>
 To stay updated on the blog subscribe to the <a href = "https://gilgahex.com/feed">atom feed</a>
-<br>
+<br><br>
 For more on the term Cybernetics, see <a href = "https://www.pangaro.com/definition-cybernetics.html">Dr. Pangaro's Post</a>
-<br>
-<a href = ../Cybernetics.png">CYBERNETICS</a>
+<br><br>
+<a href = /assets/images/Cybernetics.png">CYBERNETICS</a>
 <br>
 </p>
 
