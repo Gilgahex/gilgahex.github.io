@@ -17,7 +17,7 @@ To stay updated on the blog subscribe to the <a href = "https://gilgahex.com/fee
 <br><br>
 For more on the term Cybernetics, see <a href = "https://www.pangaro.com/definition-cybernetics.html">Dr. Pangaro's Post</a>
 <br><br>
-<img src=/assets/images/Cybernetics.png">
+<img src="https://gilgahex.com/assets/images/Cybernetics.png">
 <br>
 </p>
 
