@@ -2,8 +2,8 @@
 name: "Cybernetica"
 title: "Cybernetica"
 description: "For all things Cybernetic and Mechatronic"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/Connexions.png'
+favicon: 'assets/images/Connexions.png'
 baseurl: /
 google_analytics: 'UA-130118775-2'
 disqus: 'cybernetica'
