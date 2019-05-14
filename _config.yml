@@ -16,10 +16,11 @@ authors:
    conor:
     name: Conor
     display_name: Conor
-    avatar: ''
+    avatar: 'assets/images/Circuitboard.png'
     email: orrbifold@gmail.com
-    IG: https://instagram.com/twiximus
+    bt.follow: https://instagram.com/twiximus
     description: "Science guy"
+    web: https://instagram.com/twiximus
     
 
 # Plugins

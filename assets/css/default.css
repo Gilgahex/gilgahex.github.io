@@ -4,3 +4,13 @@
   margin-right: auto;
   width: 50%;
 }
+
+body.dark {
+  background-color: rgb(30,34,39);
+  color: #fff;
+}
+body.dark code[class*=language-],
+body.dark table tbody>tr:nth-child(odd)>td,
+body.dark table tbody>tr:nth-child(odd)>th {
+  background: #282c34
+}
