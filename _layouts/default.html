@@ -75,8 +75,9 @@ ga('send', 'pageview');
 
             <ul class="navbar-nav ml-auto">
 				
-				<p class="sitetitle">{{ site.name }}: {{site.description}}</p>
-
+				<li class="nav-item">
+				<a class="sitetitle">{{ site.name }}: {{site.description}}</a>
+				</li>
                 {% if page.url == "/" %}
                 <li class="nav-item active">
                 {% else %}
