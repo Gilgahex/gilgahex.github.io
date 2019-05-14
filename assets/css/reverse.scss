@@ -1,0 +1,5 @@
+.reverse:after {
+    /* This value is the OPPOSITE color of our background */
+    color: rgbrgb(30,34,39);
+    mix-blend-mode: difference;
+}
