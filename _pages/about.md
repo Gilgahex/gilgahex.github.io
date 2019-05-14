@@ -16,6 +16,10 @@ To stay updated on the blog subscribe to the <a href = "https://gilgahex.com/fee
 <br><br>
 For more on the term Cybernetics, see <a href = "https://www.pangaro.com/definition-cybernetics.html">Dr. Pangaro's Post</a>
 <br><br>
+
+<iframe src="https://player.vimeo.com/video/41776276?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/41776276">What is cybernetics?</a> from <a href="https://vimeo.com/pangaro">paul pangaro</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<br>
 <img src="https://gilgahex.com/assets/images/Cybernetics.png">
 <br>
 </p>
