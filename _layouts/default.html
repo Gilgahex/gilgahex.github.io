@@ -74,6 +74,8 @@ ga('send', 'pageview');
         <!-- Begin Menu -->
 
             <ul class="navbar-nav ml-auto">
+				
+				<p>{{ site.name }} {{site.description}}</p>
 
                 {% if page.url == "/" %}
                 <li class="nav-item active">
@@ -116,10 +118,6 @@ ga('send', 'pageview');
 ================================================== -->
 <div class="mainheading">
     <img class="img-responsive center" src="https://i.redd.it/1iwcit1gidyy.jpg" width=30% style="border-radius:50%">
-    <h1 class="sitetitle">{{ site.name }}</h1>
-    <p class="lead">
-        {{ site.description }}
-    </p>
 </div>
 
 <!-- Content
