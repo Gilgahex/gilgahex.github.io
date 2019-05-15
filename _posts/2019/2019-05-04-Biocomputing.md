@@ -59,7 +59,10 @@ The terms Genetic Programming and Genetic Algorithms have unfortunately already 
 You may imagine a world where it would be possible to update your genetics simply through your personal smart device of the future, if you are already setup with such an internal system.
 
 However, currently the authors recommend the following use cases of this genetic architecture,
+
 “For biomedical application of synthetic circuits, a device could be developed to detect specific biomarkers as input signals for an inducible igRNA expression system, to process the information, and then to produce therapeutic outputs” 
+
+
 
 Or more simply you encode the biomarkers of a certain disease into input guide RNA to your biocomputer, setup a computation, and then potential therapeutic solutions will be synthesized for you to test.
 
