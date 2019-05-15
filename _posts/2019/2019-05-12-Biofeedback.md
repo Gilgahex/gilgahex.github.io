@@ -7,6 +7,7 @@ image: https://elitehrv.com/wp-content/uploads/2019/01/Biofeedback-icon.png
 categories: [research, biofeedback, neurofeedback, nervous system, autonomic nervous system, sympathetic, parasympathetic]
 toc: true
 featured: true
+visible: 1
 ---
 
 ## Biofeedback

@@ -6,6 +6,7 @@ author: conor
 image: 
 categories: [research, machine learning, stimulation, neuroscience, tACs, tDCs, tRNs]
 toc: true
+visible: 0
 ---
 
 # tDCs

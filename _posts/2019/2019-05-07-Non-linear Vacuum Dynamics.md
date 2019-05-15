@@ -5,6 +5,7 @@ date:   2019-05-07 19:25:38 -0800
 author: conor
 image: 
 categories: [QED, vacuum, schwinger, spacetime, light, quantum theory, quantum mechanics, lasers, hungary, non-linear]
+visible: 1
 ---
 
 Beyond The Standard Model: 
