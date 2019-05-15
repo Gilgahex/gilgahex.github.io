@@ -60,7 +60,7 @@ You may imagine a world where it would be possible to update your genetics simpl
 
 However, currently the authors recommend the following use cases of this genetic architecture,
 
-“For biomedical application of synthetic circuits, a device could be developed to detect specific biomarkers as input signals for an inducible igRNA expression system, to process the information, and then to produce therapeutic outputs” 
+*“For biomedical application of synthetic circuits, a device could be developed to detect specific biomarkers as input signals for an inducible igRNA expression system, to process the information, and then to produce therapeutic outputs”* 
 
 
 
@@ -91,7 +91,7 @@ I'm not sure how sensitive all these biochemical processes are to the myriad of 
 
 hMSCs are abundance in tooth pulp and bone marrow so there maybe a way to isolate a therapeutic staging grounds to a single tooth.
 
-By loading this computation and synthesis system into the body to encode genetic factors that will biologically synthesize these Spiroligomers in vivo and have them spontaneously carry out their given purpose, automated personally tailored therapeutic treatments may be possible.
+By loading this computation and synthesis system into the body to encode genetic factors that will biologically synthesize Spiroligomers in vivo, self assemble, and then spontaneously carry out their given purpose, automated personally tailored therapeutic treatments would be possible.
 
 I'm sure we're at least a decade from such technology, but it's quite an exciting prospect, it would open an entirely new methodology for synthesizing therapeutic solutions in synthetic biology.
 
