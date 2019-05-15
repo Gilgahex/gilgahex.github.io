@@ -7,7 +7,6 @@ image: https://cdn.shopify.com/s/files/1/0186/7976/files/Light_Field_Rendering_J
 categories: [research, biopotential, EEG, EMG, EOG, EKG, ECG, QED, RF, wireless, neuroscience, neurostimulation]
 featured: true
 ---
-# Table of Contents:
 
 1. [Photonic Electrodes](#1)
 2. [Ultra High Impedence (UHI) Electrodes ](#2)
