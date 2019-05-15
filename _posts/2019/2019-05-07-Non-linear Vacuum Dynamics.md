@@ -7,7 +7,7 @@ image:
 categories: [QED, vacuum, schwinger, spacetime, light, quantum theory, quantum mechanics, lasers, hungary, non-linear]
 ---
 
-
+Beyond The Standard Model: 
 
 
 Let's start by discussing the [Schwinger Limit](https://en.wikipedia.org/wiki/Schwinger_limit), which may or may not be as exciting as it sounds.
