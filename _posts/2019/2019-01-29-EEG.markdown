@@ -6,6 +6,7 @@ author: conor
 image: https://cdn.shopify.com/s/files/1/0186/7976/files/Light_Field_Rendering_JPG_2048x.jpg?v=1517027194
 categories: [research, biopotential, EEG, EMG, EOG, EKG, ECG, QED, RF, wireless, neuroscience, neurostimulation]
 featured: true
+visible: 1
 ---
 
 1. [Photonic Electrodes](#1)

@@ -6,6 +6,7 @@ author: conor
 image: https://www.kurzweilai.net/images/profiler.png
 categories: [research, biocomputing, genetics, molecular engineering, genetic engineering, therapeutics]
 featured: true
+visible: 1
 ---
 
 Recently a paper by Hyojin Kim, Daniel Bojar, and Martin Fussenegger, titled

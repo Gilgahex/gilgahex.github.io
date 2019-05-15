@@ -6,7 +6,7 @@ date:   2019-05-08 1:25:38 -0800
 author: conor
 image: 
 categories: [google, google trends, data science]
-
+visible: 1
 ---
 
 So I was playing around with Google Trends for market research the other day and thought I'd share some interesting correlations I found.
