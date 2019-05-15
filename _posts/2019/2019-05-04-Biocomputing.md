@@ -35,7 +35,7 @@ There’s an interesting note in the article about the dual-core NIMPLY gate,
 
 “Importantly, the dual-core NIMPLY gate also functioned in immortalized human mesen-chymal stem cells (hMSCs), suggesting potential applicability of this system for therapeutic applications.”
 
-hMSCs are heavily used in cancer research, 
+hMSCs are heavily used in cancer research, *
 
 Bearing in mind that it is possible to perform any arbitrary computation using only [NOR or NAND gates](https://en.wikipedia.org/wiki/Functional_completeness)
 

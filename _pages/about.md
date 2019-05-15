@@ -10,7 +10,7 @@ comments: true
 
 <h1>Hi there!</h1>
 <p>I'm Conor and this is my personal blog about everything I think about. <br>
-It's mostly focused science and technology, but crazy ideas in other fields pop up too.
+It's mostly focused futurism in science and technology, but crazy ideas in other fields pop up too.
 <br>
 To stay updated on the blog subscribe to the <a href = "https://gilgahex.com/feed">atom feed</a>
 <br><br>
