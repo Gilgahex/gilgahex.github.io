@@ -11,6 +11,8 @@ categories: [google, google trends, data science]
 
 So I was playing around with Google Trends for market research the other day and thought I'd share some interesting correlations I found.
 
+<br><br>
+
 Breast cancer awareness month, definitely October 
 <details><summary>Plot</summary>
   <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script>
@@ -25,8 +27,7 @@ The term "Learning Genetics" coincides with February every year since 2004, when
   <script type="text/javascript">
     trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"learn genetics","geo":"","time":"2004-01-01 2019-05-09"}],"category":0,"property":""}, {"exploreQuery":"q=learn%20genetics&date=all","guestPath":"https://trends.google.com:443/trends/embed/"});
   </script>
-
-Interestingly it doesn't fully coincide with Valentine's Day like I suspected, there is a general uptick around mid February, but you really see an uptick about a month later on most years.
+<br><br>Interestingly it doesn't fully coincide with Valentine's Day like I suspected, there is a general uptick around mid February, but you really see an uptick about a month later on most years.
 
 There's also an interesting correlation with Christmas and New Years
 
