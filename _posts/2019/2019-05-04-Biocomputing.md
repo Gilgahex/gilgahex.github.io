@@ -24,7 +24,7 @@ This lead me to a question of my own
 
 To me this is an incredible idea which may lead to a future where if it would be possible to create artificial feedback loops using Cas9 and other genetic tools to regulate expression in a robust and controllable way.
 
-Their paper they outline approximate digital logic gates for AND, OR, NOR, XOR, and NIMPLY.
+In their paper they outline approximate digital logic gates for AND, OR, NOR, XOR, and NIMPLY.
 
 Bearing in mind that it is possible to perform any arbitrary computation using only [NOR or NAND gates](https://en.wikipedia.org/wiki/Functional_completeness) this is pretty exciting.
 
@@ -33,6 +33,8 @@ So I educated myself about it and made a wikipedia page for it.
 
 A NIMPLY gate is only 1 if its first input is 1 and its second input is 0.
 In this case it signals the sole presence of its first igRNA input by forming green fluorescent protein (GFP) as an output signal.
+
+igRNA is input guide RNA
 
 Here’s a cool [link to a tutorial on genetic circuits](http://www2.cds.caltech.edu/~murray/waitwhat/tutorial.html) for reference.
 
@@ -68,9 +70,9 @@ The big idea there is to use Spiroligomers as flexible building blocks to build 
 
 A few examples given in [Christian’s Google Talk](https://www.youtube.com/watch?v=8X69_42Mj-g) are 
 
-- General Purpose Antimicrobials,
-  Long Term Molecular Sensors
-  Water Purification 
+- General Purpose Antimicrobials
+- Long Term Molecular Sensors
+- Water Purification 
 
 Their work reaches more into the realm of molecular engineering, and takes a more structural engineering approach to the problem of creating new therapeutics.
 
