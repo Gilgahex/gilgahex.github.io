@@ -19,8 +19,6 @@ Breast cancer awareness month, definitely October
   </script>
 </details>
 
-
-
 The term "Learning Genetics" coincides with February every year since 2004, when Google Trends was started.
 
   <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script>

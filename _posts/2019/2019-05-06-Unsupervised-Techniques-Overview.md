@@ -8,8 +8,6 @@ categories: [research, machine learning, clustering, unsupervised]
 
 ---
 
-
-
 Manifold Learning
 
 Clustering

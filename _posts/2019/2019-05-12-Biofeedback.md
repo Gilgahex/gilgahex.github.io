@@ -31,8 +31,6 @@ The Promise of Heart Rate Variability Biofeedback: Evidence-Based Applications
 
 Breath Exercises
 
-
-
 Here you can see a short demo of [Anahata](https://www.youtube.com/watch?v=I7uqHDCeC20) a wireless Biofeedback device 
 
 ## Neurofeedback
