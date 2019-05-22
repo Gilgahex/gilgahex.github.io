@@ -1,5 +1,3 @@
----
-
 layout: post
 title:  "Neuron Tracing"
 date:   2019-05-04 1:29:38 -0800
@@ -8,15 +6,14 @@ image:
 categories: [research, IR, neuron, firing, firing pattern, fluorescent, life, biology, bioluminescence, biofluorescence, fNIRs, optogenetics, neural photonics]
 featured: true
 visible: 1
----
 
-This article was inspired by a Nova Documentary, [Creatures of Light](https://www.pbs.org/wgbh/nova/video/creatures-of-light/), it's a pretty amazing documentary about bioluminescent and bioflorescent life.
+This article was inspired by a Nova Documentary, [Creatures of Light](https://www.pbs.org/wgbh/nova/video/creatures-of-light/), it's a pretty amazing documentary about bioluminescent and biofluorescent life.
 
 But, it takes an interesting turn when scientists discuss how the fluorescent proteins synthesized by certain types of aquatic life can be inserted other organisms.
 
-Currently Green Fluorescent Protein (GFP) has been used in cats to study FIV, a viral relative to HIV.
+Currently Green Fluorescent Protein (GFP) has been used in [cats to study FIV](https://www.bbc.com/news/science-environment-14882008), a viral relative to HIV.
 
-This works because of the skull thickness of felines is thin enough that most of the green light passes through and isn't lost to absorption and scattering 
+This works because of the skull thickness of felines is thin enough that most of the green light passes through and isn't lost to absorption and scattering.
 
 But for thicker skulls, e.g. Humans, you need to use a longer wavelength to transmit any signal from within the skull to the outside.
 
@@ -50,7 +47,7 @@ The ["optical window"](https://en.wikipedia.org/wiki/Near-infrared_window_in_bio
 
 Hemoglobin is optically excited around 400-450nm
 
-<img src=https://upload.wikimedia.org/wikipedia/commons/8/80/Fig_1_-_The_molar_extinction_coefficient_of_HbO2_and_Hb.png>
+![Heme Response](https://upload.wikimedia.org/wikipedia/commons/8/80/Fig_1_-_The_molar_extinction_coefficient_of_HbO2_and_Hb.png)
 
 To measure a length scale, L within the human brain, I'd expect that it, in its most general form, would depend on the distribution of wavelengths present in your optical source, its amplitude/power, and the density of tissue it traverses through.
 
