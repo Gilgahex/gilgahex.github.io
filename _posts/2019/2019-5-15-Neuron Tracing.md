@@ -60,7 +60,7 @@ So something like
 
 L = LossFactor(\phi_{\lambda} , \rho_{tissue}, Power_\phi) * E[\phi_{\lambda}]
 
-{%end raw%}
+{%endraw%}
 
 Without being able to map the entirety of neuronal circuitry, you lose a lot of information about *
 
