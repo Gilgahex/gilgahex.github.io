@@ -36,6 +36,30 @@ Electro-Optical effects like the [Kerr effect](https://en.wikipedia.org/wiki/Ker
 
 Because of non-linearities of many materials, higher order terms of these interactions between matter and light become manifest.
 
+Using a Mach-Zedner Modulator (MZM), you can convert the phase change of the incident light into an overall reduction of intensity
+
+$\Delta n =-\lambda \hat K \nabla V$
+
+$\Delta_{OPL} =  \Delta n *t$
+
+Where t is the thickness of the electro-optical crystal and is the optical path.
+
+$\delta\phi = \frac{2\pi}{\lambda} \Delta_{OPL}$
+
+$\delta \phi = -2\pi  \hat K \nabla V = -2\pi  \hat K \frac{V}{D}$
+
+Since it's just the Voltage between the gold electrodes,
+
+$\nabla V = \frac{V}{D}$ 
+
+Where V is the biopotential in question and D is the distance between the electrodes of the MZM
+
+Then the intensity will modulate with the phase change caused by the difference in electrical potential between the electrodes placed on the skin.
+
+$I = I_0 + I_1 + 2\sqrt{I_0I_1\cos({\delta\phi})}$
+
+It's possible to measure any biopotential this way, EMG, EEG, EKG, EOG, etc.
+
 Materials like [LiNbO3](https://en.wikipedia.org/wiki/Lithium_niobate) and LiTaO3 have the potential to finely measure our biopotentials from only skin contact.
 
 In fact, our biopotentials can be measured remotely as well because the Electric Field's of any biopotential extends beyond the skin.
@@ -82,12 +106,6 @@ It would require a cross disciplinary effort from someone with electrical engine
 Honestly, I'm not sure why everyone is still only measuring the voltage at every site and not the actual E-Field, you're losing so much information by only considering the Voltage.
 
 Important questions like the [physical nature of consciousness](https://advances.sciencemag.org/content/5/2/eaat7603/tab-pdf) are in the dynamics of the system, that is the movement of ions and charge within the structure. It's in the pattern,  not the absolute value of the potential at any given point.
-
-{%raw%}
-
-$\vec E = -\nabla V$
-
-{%endraw%}
 
 ## RF Electrodes
 

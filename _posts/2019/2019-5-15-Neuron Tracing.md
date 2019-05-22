@@ -54,14 +54,14 @@ Hemoglobin is optically excited around 400-450nm
 
 To measure a length scale, L within the human brain, I'd expect that it, in its most general form, would depend on the distribution of wavelengths present in your optical source, its amplitude/power, and the density of tissue it traverses through.
 
-So something like
+So if $\phi_\lambda$ is our distribution of wavelengths something like,
 
 {%raw%}
 
-L = LossFactor(\phi_{\lambda} , \rho_{tissue}, Power_\phi) * E[\phi_{\lambda}]
+L = $LossFactor(\phi_{\lambda} , \rho_{tissue}, Power_\phi) * E[\phi_{\lambda}]$
 
 {%endraw%}
 
-Without being able to map the entirety of neuronal circuitry, you lose a lot of information about *
+Without being able to map the entirety of neuronal circuitry, you lose a lot of information about how the different systems of the brain inter-relate.
 
 It's as if you're tracking a flow of birds and suddenly they cross the grand canyon, good luck knowing *, the trail stops cold.
