@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Neuron Tracing"
 date:   2019-05-04 1:29:38 -0800
@@ -6,6 +7,7 @@ image:
 categories: [research, IR, neuron, firing, firing pattern, fluorescent, life, biology, bioluminescence, biofluorescence, fNIRs, optogenetics, neural photonics]
 featured: true
 visible: 1
+---
 
 This article was inspired by a Nova Documentary, [Creatures of Light](https://www.pbs.org/wgbh/nova/video/creatures-of-light/), it's a pretty amazing documentary about bioluminescent and biofluorescent life.
 
