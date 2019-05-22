@@ -22,11 +22,11 @@ I've been researching how to remotely sense EEG and other biopotentials. It seem
 
 On a long business trip, I was reading an article on neuroscience in a SMOG shop in the middle of Oregon. 
 
-It occurred to me that there was no reason why you had to use metal electrodes to measure the brain.
+It occurred to me that there was no reason why you had to use metal electrodes to measure the brain or any other part of the body.
 
 Because of how Light and Electromagnetism (EM) interact (thanks Maxwell), you can measure electrical or magnetic effects through the use of Light in certain special materials.
 
-Light and EM are fundamentally two pieces of the same whole (QED), so it was apparent to me that the electrical activity of a certain region of the brain would interact with light that passes by it and leave an imprint or shadow in its wake.
+Light and EM are fundamentally two pieces of the same whole (QED), so it was apparent to me that the electrical activity of a certain region of the brain would interact with any light that passes by it and leave an imprint, a shadow in its wake.
 
 Imagine you see a small rippling wave riding along a huge swell. The huge swell is the beam of light you send in close proximity to your brain and the small rippling wave is your brain's internal electrical activity.
 
@@ -60,7 +60,7 @@ $I = I_0 + I_1 + 2\sqrt{I_0I_1\cos({\delta\phi})}$
 
 It's possible to measure any biopotential this way, EMG, EEG, EKG, EOG, etc.
 
-Materials like [LiNbO3](https://en.wikipedia.org/wiki/Lithium_niobate) and LiTaO3 have the potential to finely measure our biopotentials from only skin contact.
+Materials like [LiNbO3](https://en.wikipedia.org/wiki/Lithium_niobate) and LiTaO3 have the potential to finely measure our biopotentials from only skin contact because of their sizable electro-optical constants $\hat K$ .
 
 In fact, our biopotentials can be measured remotely as well because the Electric Field's of any biopotential extends beyond the skin.
 
@@ -95,7 +95,8 @@ This opens doors of which beyond are unknown bounties that will benefit the fiel
 A similar technology using ultra high impedence sensors also exists.
 
 Things like the [EPIC Sensor](http://www.plesseysemiconductors.com/products/epic-sensing-technology/) from Plessey Semiconductor seem to me the right direction for the future of biosensing technology.
-These types of sensors can remotely pickup any sort of electrophysiological signal, EEG, EMG, EOG, etc.
+
+These types of sensors can also remotely pickup any sort of electrophysiological signal, EEG, EMG, EOG, etc.
 
 Unfortunately Plessey's solution is both costly and requires extra equipment to setup. I only came across them because of my own research and curiosity. The barrier to entry for a neuroscience lab starting out would most likely be too high for this technology.
 
