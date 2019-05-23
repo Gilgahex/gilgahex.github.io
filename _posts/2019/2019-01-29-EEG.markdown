@@ -39,19 +39,21 @@ Because of non-linearities of many materials, higher order terms of these intera
 
 Using a Mach-Zedner Modulator (MZM), you can convert the phase change of the incident light into an overall reduction of intensity
 
-For LiNbO3 Pockel's Effect is dominant over the Kerr Effect so we get an index of refraction change of $\Delta n\sim |\vec E |$
+For LiNbO3 Pockel's Effect is dominant over the Kerr Effect so we get an index of refraction change of 
 
-Going through the math a bit
+$\Delta n\sim |\vec E |$
+
+Going through the math a bit,
 
 $\Delta n =-\lambda \hat K \nabla V$
 
-$\Delta_{OPL} =  \Delta n *t$
+$\Delta_{OPL} =  \Delta n *s$
 
-Where t is the thickness of the electro-optical crystal and is the optical path.
+Where s is the optical path through the crystal.
 
 $\delta\phi = \frac{2\pi}{\lambda} \Delta_{OPL}$
 
-$\delta \phi = -2\pi  \hat K \nabla V t= -2\pi  \hat K \frac{V}{D} t$
+$\delta \phi = -2\pi  \hat K \nabla V s= -2\pi  \hat K \frac{V}{D} s$
 
 Since it's just the Voltage between the gold electrodes,
 
@@ -113,7 +115,7 @@ It would require a cross disciplinary effort from someone with electrical engine
 
 Honestly, I'm not sure why everyone is still only measuring the voltage at every site and not the actual E-Field, you're losing so much information by only considering the Voltage.
 
-Important questions like the [physical nature of consciousness](https://advances.sciencemag.org/content/5/2/eaat7603/tab-pdf) are in the dynamics of the system, that is the movement of ions and charge within the structure. It's in the pattern,  not the absolute value of the potential at any given point.
+Important questions like the [physical nature of consciousness](https://advances.sciencemag.org/content/5/2/eaat7603/tab-pdf) are in the dynamics of the system, that is the movement of ions and charge within the structure. It's in the pattern, not the absolute value of the potential at any given point.
 
 ## RF Electrodes
 
@@ -130,6 +132,8 @@ Wherein, they provide a schematic for a telemetry chip that does just what I was
 *The telemetry device employs an on-chip RF power harvester, consisting of a 4-stage Schottky diode voltage multiplier*
 
 So this RF harvester could be ambiently powered by the RF that exists in a modern city or selectively powered by some keyed pulse.
+
+https://ieeexplore.ieee.org/abstract/document/4649107
 
 These type of RF electrodes also seems to be a potential communication interface for the idea of [Neural Dust](https://en.wikipedia.org/wiki/Neural_dust#Backscatter_Communication)
 
