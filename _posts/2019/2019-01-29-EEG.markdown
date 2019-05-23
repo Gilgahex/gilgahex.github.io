@@ -4,7 +4,7 @@ title:  "Wireless Biopotentials"
 date:   2019-01-29 1:29:38 -0800
 author: conor
 image: https://cdn.shopify.com/s/files/1/0186/7976/files/Light_Field_Rendering_JPG_2048x.jpg?v=1517027194
-categories: [research, biopotential, EEG, EMG, EOG, EKG, ECG, QED, RF, wireless, neuroscience, neurostimulation]
+categories: [research, biopotential, EEG, EMG, EOG, EKG, ECG, QED, RF, wireless, neuroscience, neurostimulation, neural dust]
 featured: true
 visible: 1
 ---
@@ -12,6 +12,7 @@ visible: 1
 1. [Photonic Electrodes](#1)
 2. [Ultra High Impedence (UHI) Electrodes ](#2)
 3. [RF Electrodes](#3)
+4. [Appendix](#4)
 {:toc}
 
 ## Photonic Electrodes
@@ -38,6 +39,10 @@ Because of non-linearities of many materials, higher order terms of these intera
 
 Using a Mach-Zedner Modulator (MZM), you can convert the phase change of the incident light into an overall reduction of intensity
 
+For LiNbO3 Pockel's Effect is dominant over the Kerr Effect so we get an index of refraction change of $\Delta n\sim |\vec E |$
+
+Going through the math a bit
+
 $\Delta n =-\lambda \hat K \nabla V$
 
 $\Delta_{OPL} =  \Delta n *t$
@@ -46,13 +51,15 @@ Where t is the thickness of the electro-optical crystal and is the optical path.
 
 $\delta\phi = \frac{2\pi}{\lambda} \Delta_{OPL}$
 
-$\delta \phi = -2\pi  \hat K \nabla V = -2\pi  \hat K \frac{V}{D}$
+$\delta \phi = -2\pi  \hat K \nabla V t= -2\pi  \hat K \frac{V}{D} t$
 
 Since it's just the Voltage between the gold electrodes,
 
 $\nabla V = \frac{V}{D}$ 
 
-Where V is the biopotential in question and D is the distance between the electrodes of the MZM
+Where V is the bio-potential in question and D is the distance between the electrodes of the MZM
+
+
 
 Then the intensity will modulate with the phase change caused by the difference in electrical potential between the electrodes placed on the skin.
 
@@ -112,8 +119,29 @@ Important questions like the [physical nature of consciousness](https://advances
 
 I've had this idea for a while to use [Ambient Backscatter](https://en.wikipedia.org/wiki/Ambient_backscatter) for I/O off of an electrode.
 
-It should then be possible to create a wireless electrode
+It should then be possible to create a wireless electrode which is selectively active to only certain RF frequencies.
 
-Research has been done into this and is feasible according to *
+It operates on a similar macro-principle as that behind the Photonic Electrode. The incident RF wave briefly powers some biosensor and physically encodes what biopotential it sensed into the reflected RF wave.
 
-However, the 
+Research has been done into this and is feasible according to an article back in 2013, [Battery-Free Multichannel Digital ECGBiotelemetry using UHF RFID Techniques](https://ieeexplore.ieee.org/document/6548130).
+
+Wherein, they provide a schematic for a telemetry chip that does just what I was thinking using RFID, the architecture runs off of an RF harvester instead of a battery.
+
+*The telemetry device employs an on-chip RF power harvester, consisting of a 4-stage Schottky diode voltage multiplier*
+
+So this RF harvester could be ambiently powered by the RF that exists in a modern city or selectively powered by some keyed pulse.
+
+These type of RF electrodes also seems to be a potential communication interface for the idea of [Neural Dust](https://en.wikipedia.org/wiki/Neural_dust#Backscatter_Communication)
+
+## Appendix
+
+QED: [Quantum Electrodynamics](https://en.wikipedia.org/wiki/Quantum_electrodynamics), the quantum field theory encompassing the dynamics of light and matter.
+
+It provides a complete quantum description of one of the four fundamental forces of nature, electromagnetism (EM)
+
+Biopotental: Electrical Voltage due to a biological process, some examples are
+Neurons Firing (EEG)
+Eye Movement (EOG)
+Muscle contraction (EMG)
+	Hand Movement
+	Digestion, closely related to your Vagus Nerve (Cranial X)
