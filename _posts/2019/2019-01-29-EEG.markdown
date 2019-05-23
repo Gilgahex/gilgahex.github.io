@@ -39,7 +39,7 @@ Because of non-linearities of many materials, higher order terms of these intera
 
 Using a Mach-Zedner Modulator (MZM), you can convert the phase change of the incident light into an overall reduction of intensity
 
-For LiNbO3 Pockel's Effect is dominant over the Kerr Effect so we get an index of refraction change of 
+For LiNbO3 Pockel's Effect is dominant over the Kerr Effect so we get an index of refraction change of,
 
 $\Delta n\sim |\vec E |$
 
