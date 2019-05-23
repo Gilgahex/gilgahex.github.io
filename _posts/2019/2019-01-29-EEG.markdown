@@ -41,7 +41,9 @@ Using a Mach-Zedner Modulator (MZM), you can convert the phase change of the inc
 
 For LiNbO3 Pockel's Effect is dominant over the Kerr Effect so we get an index of refraction change of,
 
+{%raw%}
 $\Delta n\sim |\vec E |$
+{%endraw%}
 
 Going through the math a bit,
 
