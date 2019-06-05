@@ -16,7 +16,7 @@ Let's break down that title, because its at least 3 mouthfuls.
 
 The core idea behind the paper is rather amazing, and seeks to answer the questions
 
-- Could use Cas9 as a CPU in a biocomputational architecture?
+- Could Cas9 be used as a CPU in a biocomputational architecture?
 - How can we control gene expression with biological logic gates?
 
 This lead me to a question of my own
@@ -98,8 +98,38 @@ I'm sure we're at least a decade from such technology, but it's quite an excitin
 
 
 
+## Appendix
 
+**igRNA** is **Input Guide RNA**
 
+(N)IMPLY Gate: 
 
+<table style="width:100%">
+  <tr>
+    <th>A</th>
+    <th>B</th> 
+    <th> NIMPLY(A,B); A ↛ B</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>0</td> 
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>1</td> 
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>0</td> 
+    <td>1</td>
+  </tr>
+    <tr>
+    <td>1</td>
+    <td>1</td> 
+    <td>0</td>
+  </tr>
+</table>
 
 

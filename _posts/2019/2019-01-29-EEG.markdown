@@ -146,5 +146,5 @@ It provides a complete quantum description of one of the four fundamental forces
 Biopotental: Electrical Voltage due to a biological process, some examples are<br>Neurons Firing (EEG)<br>
 Eye Movement (EOG)<br>
 Muscle contraction (EMG)<br>
-	Hand Movement<br>
-	Digestion, closely related to your Vagus Nerve (Cranial X)<br>
+	<p style="margin-left: 30">Hand Movement</p><br>
+	<p style="margin-left: 30">Digestion, closely related to your Vagus Nerve (Cranial X)</p><br>
