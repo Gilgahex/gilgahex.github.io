@@ -45,6 +45,8 @@ My links
 <a href = "https://www.quora.com/profile/Conor-OBrien-2">Quora</a>
 <br>
 <a href = "https://myanahata.com">Anahata Product</a>
+<br>
+<a href = "https://medium.com/@gilgahex"Medium Articles</a<
 
 
 </div>

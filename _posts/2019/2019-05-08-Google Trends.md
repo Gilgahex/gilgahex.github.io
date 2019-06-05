@@ -4,7 +4,7 @@ layout: post
 title:  "Google Trends"
 date:   2019-05-08 1:25:38 -0800
 author: conor
-image: 
+image: https://ssl.gstatic.com/trends_tpt/fb29f61e3b0419e1e745c9245d00d094c5357b2246bbdf17cd2b03d7349b2c72.png
 categories: [google, google trends, data science]
 visible: 1
 ---

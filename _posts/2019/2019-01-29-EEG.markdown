@@ -39,11 +39,11 @@ Because of non-linearities of many materials, higher order terms of these intera
 
 Using a Mach-Zedner Modulator (MZM), you can convert the phase change of the incident light into an overall reduction of intensity
 
-For LiNbO3 Pockel's Effect is dominant over the Kerr Effect so we get an index of refraction change of,
+For LiNbO3 Pockel's Effect is dominant over the Kerr Effect so we get change in the index of refraction which is linear in the Electric Field.
 
-{%raw%}
-$\Delta n\sim |\vec E |$
-{%endraw%}
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vQNJHmufCKr5k8OmtM1epnhrfnSI2oiIwq3UoOI9mUbOluCZv4L-KbeqD1oABuGXRmuJnP--zrtXNe9/pub?w=960&amp;h=720">
+
+Over at SRICO they those to use Telecommuications frequencies, in their paper they mention using 1550nm which is a standard C-Band frequency used for fiber-optic communication.
 
 Going through the math a bit,
 
@@ -62,8 +62,6 @@ Since it's just the Voltage between the gold electrodes,
 $\nabla V = \frac{V}{D}$ 
 
 Where V is the bio-potential in question and D is the distance between the electrodes of the MZM
-
-
 
 Then the intensity will modulate with the phase change caused by the difference in electrical potential between the electrodes placed on the skin.
 
@@ -145,9 +143,8 @@ QED: [Quantum Electrodynamics](https://en.wikipedia.org/wiki/Quantum_electrodyna
 
 It provides a complete quantum description of one of the four fundamental forces of nature, electromagnetism (EM)
 
-Biopotental: Electrical Voltage due to a biological process, some examples are
-Neurons Firing (EEG)
-Eye Movement (EOG)
-Muscle contraction (EMG)
-	Hand Movement
-	Digestion, closely related to your Vagus Nerve (Cranial X)
+Biopotental: Electrical Voltage due to a biological process, some examples are<br>Neurons Firing (EEG)<br>
+Eye Movement (EOG)<br>
+Muscle contraction (EMG)<br>
+	Hand Movement<br>
+	Digestion, closely related to your Vagus Nerve (Cranial X)<br>
