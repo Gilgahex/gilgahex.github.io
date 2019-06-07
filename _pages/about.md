@@ -46,7 +46,7 @@ My links
 <br>
 <a href = "https://myanahata.com">Anahata Product</a>
 <br>
-<a href = "https://medium.com/@gilgahex"Medium Articles</a>
+<a href = "https://medium.com/@gilgahex">Medium Articles</a>
 
 
 </div>
