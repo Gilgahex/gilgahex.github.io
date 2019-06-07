@@ -770,13 +770,16 @@ iframe {
         padding: 0;
         height: 350px;
         border-radius: 0;
-        background-image: url(../images/jumbotron.jpg);
+        background-image: url(../images/halftone.jpg);
         background-size: cover;
     }
 
     .jumbotron.fortags .col-md-4 {
         background: rgba(0, 0, 0, 0.75);
         color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center
     }
 
     .jumbotron.fortags .row {
